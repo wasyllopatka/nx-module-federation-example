@@ -11,8 +11,7 @@
       "!{projectRoot}/src/test-setup.[jt]s",
       "!{projectRoot}/test-setup.[jt]s"
     ],
-    "sharedGlobals": [],
-    "mfRuntime": []
+    "sharedGlobals": []
   },
   "targetDefaults": {
     "@angular-devkit/build-angular:browser": {
