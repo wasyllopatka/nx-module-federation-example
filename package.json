@@ -8,7 +8,6 @@
     "affected:test": "nx affected:test",
     "affected:lint": "nx affected:lint",
     "affected:graph": "nx graph --affected",
-    "affected": "nx affected",
     "print-affected:app": "nx show projects --affected --type=app --select=projects",
     "print-affected:libs": "nx show projects --affected --type=lib --select=projects",
     "print-affected:build": "nx show projects --affected --target=build --select=tasks.target.project",
