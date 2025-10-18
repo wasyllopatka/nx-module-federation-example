@@ -29,7 +29,8 @@
 
         "customWebpackConfig": {
           "path": "apps/store/webpack.config.ts"
-        }
+        },
+        "dependsOn": []
       },
       "configurations": {
         "production": {
